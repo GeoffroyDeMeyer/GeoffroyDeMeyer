@@ -2,7 +2,7 @@
 - 👀 I’m interested in deeptech projects with a focus in cyber and health verticals
 - 🌱 I’m currently learning Neuroscience, Deep Learning and Venture Capital
 - 💞️ I’m looking to collaborate on sharing good startup dealflow
-- 📫 How to reach me : gdemeyer@elaia.fr
+- 📫 How to reach me : geoffroy.de-meyer.16@polytechnique.edu
 
 <!---
 GeoffroyDeMeyer/GeoffroyDeMeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
