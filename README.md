@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeoffroyDeMeyer
-- 👀 I’m interested in tech projects with a focus in finance, cyber and health verticals
-- 🌱 I’m currently learning Neuroscience, Deep Learning following a master in Applied Maths
-- 💞️ I’m always looking to collaborate on new projects 
+- 👀 I’m interested in tech projects with a focus in finance and health verticals
+- 🌱 Learned Neuroscience, Deep Learning after a master in Applied Maths
 - 📫 How to reach me : geoffroy.de-meyer.16@polytechnique.edu
 
 <!---
